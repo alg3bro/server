@@ -1,0 +1,9 @@
+<taglib>
+    <uri>mistags</uri>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>243.2</jsp-version>
+    <tag>
+    	<name>tagLogin</name>
+        <tag-class>edu.ucam.tags.etiqueta</tag-class>
+    </tag>
+</taglib>
